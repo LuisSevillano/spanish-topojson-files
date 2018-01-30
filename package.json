@@ -1,0 +1,20 @@
+{
+  "name": "spanish-topojson-files",
+  "version": "1.0.0",
+  "description": "A folder with the TopoJSON files generated with es-atlas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisSevillano/spanish-topojson-files.git"
+  },
+  "keywords": [
+    "TopoJSON",
+    "d3",
+    "maps"
+  ],
+  "author": "Luis Sevillano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisSevillano/spanish-topojson-files/issues"
+  },
+  "homepage": "https://github.com/LuisSevillano/spanish-topojson-files#readme"
+}
